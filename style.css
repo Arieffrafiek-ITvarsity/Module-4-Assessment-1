@@ -6,13 +6,13 @@ body{
  }
 
 #left-colomn{
-   width: 60%;
+   width: 50%;
    float: left;
    background-color: #00A6FF;     
 }
 
 #right-colomn img{
-     width: 230px;
+     width: 150px;
      margin-left: 140px;
      margin-top: 100px;
 }
