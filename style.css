@@ -6,7 +6,7 @@ body{
  }
 
 #left-colomn{
-   width: 60px;
+   width: 60%;
    float: left;
    background-color: #00A6FF;     
 }
